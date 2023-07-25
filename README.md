@@ -1,16 +1,102 @@
-### Hi there 👋
+<!DOCTYPEhtm!>
+<head>
+<title>Diva's Portofoloio</title>
+<link rel="stylesheet" href="./Portofolio.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
 
-<!--
-**Divasavitri/Divasavitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
+  <h1>Portfolio</h1> 
+<div class="container>"  
+<nav>
+  <ul>
+    <a href="#About Me">Profile</a>
+    <a href="#Education">Education</a>
+    <a href="#Experience">Experience</a>
+    <a href="#Abillity">Abillity</a>
+    </ul>
+</nav>    
+</ul>
 
-Here are some ideas to get you started:
+</div>
+<div id="Profile">
+    <h2>About Me</h2>
+    <div class="photo_container"><img class="title-image" src="D:\diva kind.jpg" alt="diva">
+    </div>        
+    <div class="text"> Hello, I'm Putu Diva Savitri all of you can called me Diva. I'm 18 years old and I was born on 12 Febuary 2005 in Denpasar,
+    I'm born to be a only kid in my litlle familly. But I have many counsins, I have five counsins from my mother's familly and 2 counsins
+    from my father's familly I'm the last one grand daughter in my father's familly. I liked reading novel on online or physicall book, lot of
+    my times I used to listened music. Cats are one of my friends in my house so even I'm the one kid I didn't fe. Litlle bit thing about me is I'm so proud
+    to be Aquarius.</div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="Education">
+    <h2>Education</h2>
+    <p>I was a student in SDN 4 Sesetan and I continued my study in SMPN 6 Denpasar. I joined my junior high school start from 2017 and
+    graduate on 2020. I past my junior high school with half online school because we had corona virus when I was wanted to do my final exam.
+    After that I enroll in SMAN 5 Denpasar, I choosed Social for my major in my high school. I do my education in highschool for one half year
+    online and for another year I do it offline so I have come to the school. I was graduate on 2023 and now I'm a student in Pendidikan Nasional
+    Denpasar University I take communication major.  
+    </p>   
+    
+    <table>
+        <table style="width:100%">    
+        <tr>
+            <th>Education Level</th>
+            <th>School Name</th>
+            <th>The Periode Of Education</th>
+        </tr>
+        <tr>
+            <td>Elementary School</td>
+            <td>SDN 4 Sesetan</td>
+            <td>2011 - 2017</td>
+        </tr>
+        <tr>
+            <td>Junior High School</td>
+            <td>SMPN 6 Denpasar</td>
+            <td>2017 - 2020</td>
+        </tr>
+        <tr>
+            <td>Senior High School</td>
+            <td>SMAN 5 Denpasar</td>
+            <td>2020 - 2023</td>
+        </tr>
+    </table>
+</div>
+
+<div class="main">
+<div id="Experience">
+    <h2>Experience</h2>
+    <div class="main">
+		<div class="left card"><img class="title-image" src="D:\first event crop.jpg" alt="first event">
+		<p class="card-text">This was my first event I develop with my team partner. This was religious ceremony event at my school. 
+		It was take 3 days off for me to didn't join the 
+		class I got dispantation for the event.</p>
+	</div>
+	
+	<div class="right card"><img class="title-image" src="D:\organitation event.jpg" alt="organitation event">
+		<P> This was the organisation event so this is event for anugaration for the scool. The preparation take so long time 
+            and the school
+			paid so much for the event.</p>
+	</div>
+<div>            
+    <p>When I was still in high school I joined school organisation, start from 2020 untill 2022.
+    My jobdesk are helping school event and the organisation event, the example like, preoriantion school 
+    for the new student. Beside join school organisation, I'm a part of jurnalistic to in my school.
+    I made some articel for the wall magazine. Two months after I graduated from high school I apply
+    for internship in Bank for a month.</p>
+</div>
+
+<div id="Abillity">
+    <h2> Abillity</h2>
+    <P>I can speak english litlle bit but it's not perfect. For now I still studied HTML and Phyton and I take
+    english courses every two days in one week. I can aplly aditing apps for edit pictures, Power Point, etc.
+    I like to have a lot of experiencce so it's not a big deal for me to get acquainted with someone new I'll take
+    the situation easily.
+    </P>
+</div>
+<div> 
+    <footer>
+      <p>Instgram: savitri.dva<p>
+     </footer>
+</body>
