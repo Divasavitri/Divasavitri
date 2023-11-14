@@ -1,5 +1,5 @@
 <!DOCTYPEhtm!>
-<head>![diva kind](https://github.com/Divasavitri/Divasavitri/assets/140507165/981ac874-0939-44d5-9d61-e13b9dc89fe3)
+<head>(https://github.com/Divasavitri/Divasavitri/assets/140507165/981ac874-0939-44d5-9d61-e13b9dc89fe3)
 
 <title>Diva's Portofoloio</title>
 <link rel="stylesheet" href="./Portofolio.css">
